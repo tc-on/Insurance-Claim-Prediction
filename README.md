@@ -25,7 +25,7 @@ https://link.springer.com/article/10.1007/s00521-018-3523-0
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
-## Expected Approach/Outcomes:
+## Approach/Outcomes:
 
 -	Performing required cleaning to bring the uniformity in the data.
 -	Carrying-out uni-variate, Bi-variate and Multti-varaiate analysis to understand the data relationships.
